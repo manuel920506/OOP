@@ -1,0 +1,13 @@
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\Tools.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\bin\Debug\net7.0\Tools.dll.config
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\bin\Debug\net7.0\Tools.deps.json
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\bin\Debug\net7.0\Tools.dll
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\bin\Debug\net7.0\Tools.pdb
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\Tools.dll
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\refint\Tools.dll
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\Tools.pdb
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\Tools\obj\Debug\net7.0\ref\Tools.dll
