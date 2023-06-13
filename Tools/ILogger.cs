@@ -56,7 +56,7 @@ namespace Tools {
     }
 
     //Domande
-    //Il costruttore privato si invoca ogni talvolta faccio ad esempio FileLogger.GetInstance() ???? Risposta: si
+    //Il costruttore privato si invoca ogni talvolta faccio ad esempio FileLogger.GetInstance() ???? Risposta: no
     //perchè non posso avere come statici i membri implementati da una interfaccia: non si può.
     public sealed class FileLogger : ILogger {
         private static FileLogger _instance = null;
