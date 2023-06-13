@@ -31,3 +31,5 @@ C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\
 C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\ConsoleAppDependencyInjection\bin\Debug\net7.0\Tools.dll
 C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\ConsoleAppDependencyInjection\bin\Debug\net7.0\Tools.pdb
 C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\ConsoleAppDependencyInjection\bin\Debug\net7.0\Tools.dll.config
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\ConsoleAppDependencyInjection\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manue\OneDrive\Documents\APPUNTI WORKING\ConsoleAppDependencyInjection\ConsoleAppDependencyInjection\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

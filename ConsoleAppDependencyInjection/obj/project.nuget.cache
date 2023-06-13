@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NXrMt+fUwNQJrZT9dUhNtSI15u0CEtdzK4W2EHxomNRVw32MKUF33PxfAHcl9CQGrfn8wXs+BnvHKsM5p1WBJQ==",
+  "dgSpecHash": "HQqwEW7bgzT/HUvl48wrKNWUnuaG4E+qTkNoUTcaZGQIRs80O0VsPMlxDrpbVDZeCPeWzz0FwSdvfMDvvR+fWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\manue\\OneDrive\\Documents\\APPUNTI WORKING\\ConsoleAppDependencyInjection\\ConsoleAppDependencyInjection\\ConsoleAppDependencyInjection.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\manue\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\manue\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\manue\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
     "C:\\Users\\manue\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",

@@ -8,16 +8,14 @@ using System.Threading.Tasks;
 
 namespace Tools {
     public interface ILogger {
-        abstract void LogError(string message);
+        void LogError(string message);
         void LogInfo(string message);
         void LogWarning(string message);
     }
 
     public sealed class ConsoleLogger : ILogger {
-        private static ConsoleLogger _instance = null;
-        private static string _path;
-        private static object _protect = new object();
-        private string keyPath = "PathLog";
+        private static ConsoleLogger _instance = null; 
+        private static object _protect = new object(); 
 
         public static ConsoleLogger GetInstance() {
             lock (_protect) {
@@ -29,9 +27,8 @@ namespace Tools {
             return _instance;
         }
 
-        private ConsoleLogger() {
-            _path = ConfigurationManager.AppSettings[keyPath] ?? String.Empty;
-            Console.WriteLine($"Sono entrato al costruttore privato con key {_path}.");
+        private ConsoleLogger() { 
+            Console.WriteLine($"Sono entrato al costruttore privato");
         }
 
         public void LogError(string message) {
@@ -59,8 +56,8 @@ namespace Tools {
     }
 
     //Domande
-    //Il costruttore privato si invoca ogni talvolta faccio ad esempio FileLogger.GetInstance() ????
-    //perchè non posso avere come statici i membri implementati da una interfaccia
+    //Il costruttore privato si invoca ogni talvolta faccio ad esempio FileLogger.GetInstance() ???? Risposta: si
+    //perchè non posso avere come statici i membri implementati da una interfaccia: non si può.
     public sealed class FileLogger : ILogger {
         private static FileLogger _instance = null;
         private static string _path;
@@ -78,7 +75,7 @@ namespace Tools {
         }
 
         private FileLogger() {
-            _path = ConfigurationManager.AppSettings[keyPath] ?? String.Empty; ;
+            _path = ConfigurationManager.AppSettings[keyPath] ?? String.Empty;
         }
 
         public void LogError(string message) {
